@@ -19,7 +19,7 @@
         android:id="@+id/textView"
         android:layout_width="185dp"
         android:layout_height="150dp"
-        android:text="hi friends ,its me"
+        android:text="hi brooossss ,its me"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="86dp" />
