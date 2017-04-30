@@ -21,6 +21,7 @@
         android:layout_height="150dp"
         android:text="hi brooossss ,its me"
               android:text="whts up nijin"
+              android:text="nothing good"
         android:textSize="24sp"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="86dp" />
